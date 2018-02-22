@@ -1,0 +1,14 @@
+galaxy_info:
+  author: Gilberto Ficara
+  description: Install CentOS EPEL repository
+  company: Stardata S.r.l.
+  license: GPLv2
+  platforms:
+    - name: CentOS
+      versions:
+      - 6
+      - 7
+  galaxy_tags:
+  - epel
+  - repo
+  dependencies: []
